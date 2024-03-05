@@ -48,5 +48,6 @@ This repository is intended for educational and development purposes only. We do
 This project is open-sourced under the [MIT License](LICENSE).
 
 
-# misc
-https://visitor-badge.laobi.icu/badge?page_id=AzwadFawadHasan.Public_RTSP_Sources
+##### misc
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AzwadFawadHasan.Public_RTSP_Sources)
+
