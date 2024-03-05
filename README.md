@@ -35,6 +35,27 @@ Below is a curated list of RTSP sources that are publicly available for streamin
 ### 5. Hotel Lobby
 - **Stream URL**: [Hotel Lobby Live Stream](http://158.58.130.148/mjpg/video.mjpg)
 
+### 6. Purdue Engineering Mall, USA
+- **Stream URL**: [Purdue Engineering Mall Live Stream](http://webcam01.ecn.purdue.edu/mjpg/video.mjpg)
+
+### 7. Hospital San Bernardino, USA
+- **Outside CCTV Stream URL**: [Hospital San Bernardino Live Stream](http://webcam.mchcares.com/mjpg/video.mjpg?timestamp=1566232173730)
+
+### 8. Warrenton, OR, USA - Hills and the Beach
+- **Stream URL**: [Warrenton Beach Live Stream](http://47.51.131.147/-wvhttp-01-/GetOneShot?image_size=1280x720&frame_count=1000000000)
+
+### 9. House Stream Tokyo, Japan
+- **Stream URL**: [Tokyo House Live Stream](http://61.211.241.239/nphMotionJpeg?Resolution=320x240&Quality=Standard)
+
+### 10. Hills in Tsumago, Japan
+- **Stream URL**: [Tsumago Hills Live Stream](http://honjin1.miemasu.net/nphMotionJpeg?Resolution=640x480&Quality=Standard)
+
+### 11. Soltorget Pajala, Sweden
+- **Stream URL**: [Soltorget Pajala Live Stream](http://195.196.36.242/mjpg/video.mjpg)
+
+### 12. Kaiskuru Skistadion, Norway - Snow and Houses
+- **Stream URL**: [Kaiskuru Skistadion Live Stream](http://77.222.181.11:8080/mjpg/video.mjpg)
+
 ## Contributing
 
 Your contributions are welcome! If you know of any public RTSP sources that are not listed here, please feel free to add them by submitting a pull request or opening an issue. When contributing, please ensure that the streams are publicly accessible and do not infringe on any copyrights.
