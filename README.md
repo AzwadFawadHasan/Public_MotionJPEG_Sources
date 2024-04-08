@@ -18,7 +18,7 @@ To access these streams, you can use VLC Media Player or any other compatible me
 
 ## MotionJPEG Links
 
-Below is a curated list of RTSP sources that are publicly available for streaming:
+Below is a curated list of motion JPEG sources that are publicly available for streaming:
 
 ### 1. Buffalo Trace Factory
 - **Stream URL**: [Buffalo Trace Factory Live Stream](http://camera.buffalotrace.com/mjpg/video.mjpg)
