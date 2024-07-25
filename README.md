@@ -56,6 +56,13 @@ Below is a curated list of motion JPEG sources that are publicly available for s
 ### 12. Kaiskuru Skistadion, Norway - Snow and Houses
 - **Stream URL**: [Kaiskuru Skistadion Live Stream](http://77.222.181.11:8080/mjpg/video.mjpg)
 
+## RTSP  Links
+
+Below is a curated list of RTSP sources that are publicly available for streaming:
+
+### 1. Buffalo Trace Factory
+- **Stream URL**: [Anime Girl Loop Live Stream](rtsp://62.109.19.230:554/iloveyou)
+
 ## Contributing
 
 Your contributions are welcome! If you know of any public MotionJPEG sources that are not listed here, please feel free to add them by submitting a pull request or opening an issue. When contributing, please ensure that the streams are publicly accessible and do not infringe on any copyrights.
