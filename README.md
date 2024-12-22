@@ -62,6 +62,11 @@ Below is a curated list of RTSP sources that are publicly available for streamin
 
 ### 1. Buffalo Trace Factory
 - **Stream URL**: [Anime Girl Loop Live Stream](rtsp://62.109.19.230:554/iloveyou)
+- **Stream URL**: [Anime Girl Loop Live Stream 2] ```gst-launch-1.0 filesrc location=myaanee.mp4 ! qtdemux name=d d.video_0 ! queue ! rtspclientsink protocols=tcp name=s location=rtsp://62.109.19.230:554/myaanee d.audio_0 ! queue ! s.```
+- **Stream URL**: [Anime Girl Loop Live Stream 3]```ffmpeg -re -stream_loop -1 -i myaanee.mp4 -c copy -rtsp_transport tcp -f rtsp rtsp://62.109.19.230:554/myanee```
+### 2. RTSP.Stream
+- **Stream URL**: [Anime Girl Loop Live Stream](https://rtsp.stream/auth/login)
+
 
 ## Contributing
 
