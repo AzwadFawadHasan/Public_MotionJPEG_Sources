@@ -1,6 +1,6 @@
 # Public MotionJPEG Sources
 
-Welcome to the Public MotionJPEG Sources repository! This project curates a list of free, publicly accessible MotionJPEG sources that are confirmed to be working as of March 2024. Whether you're exploring  video streams for educational purposes, development, or just for fun, you've come to the right place.
+Welcome to the Public MotionJPEG Sources repository! This project curates a list of free, publicly accessible MotionJPEG sources that are confirmed to be working as of January 2025. Whether you're exploring  video streams for educational purposes, development, or just for fun, you've come to the right place.
 
 
 ## What is MotionJPEG?
