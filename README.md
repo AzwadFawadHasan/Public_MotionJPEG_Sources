@@ -1,6 +1,6 @@
-# Public MotionJPEG Sources
+![image](https://github.com/user-attachments/assets/776b54a0-c3da-4b62-9d8d-45d92911db5e)# Public MotionJPEG Sources
 
-Welcome to the Public MotionJPEG Sources repository! This project curates a list of free, publicly accessible MotionJPEG sources that are confirmed to be working as of January 2025. Whether you're exploring  video streams for educational purposes, development, or just for fun, you've come to the right place.
+Welcome to the Public MotionJPEG Sources repository! This project curates a list of free, publicly accessible MotionJPEG sources that are confirmed to be working as of January 2025. Whether you're exploring  video streams for educational purposes, development, or just for fun, you've come to the right place. Also, contains a couple of RTSP feeds.
 
 
 ## What is MotionJPEG?
@@ -64,8 +64,12 @@ Below is a curated list of RTSP sources that are publicly available for streamin
 - **Stream URL**: [Anime Girl Loop Live Stream](rtsp://62.109.19.230:554/iloveyou)
 - **Stream URL**: [Anime Girl Loop Live Stream 2] ```gst-launch-1.0 filesrc location=myaanee.mp4 ! qtdemux name=d d.video_0 ! queue ! rtspclientsink protocols=tcp name=s location=rtsp://62.109.19.230:554/myaanee d.audio_0 ! queue ! s.```
 - **Stream URL**: [Anime Girl Loop Live Stream 3]```ffmpeg -re -stream_loop -1 -i myaanee.mp4 -c copy -rtsp_transport tcp -f rtsp rtsp://62.109.19.230:554/myanee```
-### 2. RTSP.Stream
+
+  
+### 2. RTSP Stream
 - **Stream URL**: [Anime Girl Loop Live Stream](https://rtsp.stream/auth/login)
+
+- **Stream URL**: [Canal Water Live Stream] (rtsp://807e9439d5ca.entrypoint.cloud.wowza.com:1935/app-rC94792j/068b9c9a_stream2)
 
 
 ## Contributing
