@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/776b54a0-c3da-4b62-9d8d-45d92911db5e)# Public MotionJPEG Sources
+# Public MotionJPEG Sources
 
 Welcome to the Public MotionJPEG Sources repository! This project curates a list of free, publicly accessible MotionJPEG sources that are confirmed to be working as of January 2025. Whether you're exploring  video streams for educational purposes, development, or just for fun, you've come to the right place. Also, contains a couple of RTSP feeds.
 
