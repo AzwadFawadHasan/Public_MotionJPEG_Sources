@@ -71,7 +71,7 @@ Below is a curated list of RTSP sources that are publicly available for streamin
 
 - **Stream URL**: [Canal Water Live Stream](rtsp://807e9439d5ca.entrypoint.cloud.wowza.com:1935/app-rC94792j/068b9c9a_stream2) `rtsp://807e9439d5ca.entrypoint.cloud.wowza.com:1935/app-rC94792j/068b9c9a_stream2`
 
-- **An App URL**: [RTSP STREAM APP URL](https://apps.apple.com/vn/app/rtsp-stream/id6474928937)
+- **An App URL (octostream app)**: [RTSP STREAM APP URL](https://apps.apple.com/vn/app/rtsp-stream/id6474928937)
   
 
 
